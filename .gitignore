@@ -1,0 +1,9 @@
+# Local development artifacts
+.wrangler/
+
+# Operating system files
+.DS_Store
+Thumbs.db
+
+# Dependency directories
+node_modules/

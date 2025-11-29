@@ -1,0 +1,7 @@
+// Local development configuration for Cloudflare Pages
+{
+  "name": "solara-local",
+  "compatibility_date": "2024-10-01",
+  "pages_build_output_dir": ".",
+  "pages_functions_dir": "functions"
+}
